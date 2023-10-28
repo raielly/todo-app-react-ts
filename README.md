@@ -8,7 +8,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/)
 
 ## Demo Link
 
-* [Check out the Project](www.google.com)
+* [Check out the Project](https://todo-app-react-ts-swart.vercel.app/)
 
 
 ## Screenshots
