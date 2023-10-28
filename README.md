@@ -14,7 +14,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/)
 ## Screenshots
 
 ### Landing Page
-![Landing Page](www.google.com)
+![Landing Page](https://raw.githubusercontent.com/raielly/todo-app-react-ts/main/screenshots/todo.png)
 
 
 ## How to Run
