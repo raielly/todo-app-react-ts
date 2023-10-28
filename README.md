@@ -1,6 +1,6 @@
 This project was bootstrapped with [Vite](https://vitejs.dev/)
 
-# Local Storage React To Do App
+# React To Do App
 
 ## Description
 
@@ -19,6 +19,6 @@ This project was bootstrapped with [Vite](https://vitejs.dev/)
 
 ## How to Run
 
-* Clone down this project from [GitHub](https://github.com/gseals/Local-Storage-React-ToDo-App)
+* Clone down this project from [GitHub](https://github.com/raielly/todo-app-react-ts.git)
 * npm install and npm run dev
 
